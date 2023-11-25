@@ -30,7 +30,7 @@ class save extends StatelessWidget {
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: [
                         Text(
-                          "total payment",
+                          "pesanan berhasil dibuat",
                           style: TextStyle(
                             fontSize: 18,
                             fontWeight: FontWeight.bold,
